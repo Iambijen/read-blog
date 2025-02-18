@@ -1,5 +1,5 @@
 ---
-title: "My First Blog"
+title: "My-First-Blog"
 date: 2025-02-18
 If you've built a advanced LLM app, you know how finicky it is to break down complex goals into sub-tasks and organize them into a workflow. 
 For instance, what are the best practices when decomposing tasks? How to manage the state within a workflow? 
